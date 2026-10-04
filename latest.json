@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "download_url": "https://github.com/hxxzx/2_d8a-i-I-DK-_-W-8/releases/download/v1.0.0/TrinityExternal.exe",
+  "download_url": "https://github.com/hxxzx/2_d8a-i-I-DK-_-W-8/releases/download/1.0.1/TrinityExternal.exe",
   "sha256": "37F6719F8DAB17875A1EFF06CF095020E590E61D7740305325681BF83722FB50",
   "changelog": [
     "Implementação de um bootstrapper/added a bootstrapper"
