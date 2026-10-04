@@ -1,9 +1,8 @@
-Sim. Você pode hospedar o manifesto no GitHub e o executável como um asset de uma Release. O repositório precisa ser público para o updater atual funcionar sem autenticação.
-
 ============================================================
 
 1. Crie uma Release no GitHub
-   ============================================================
+
+============================================================
 
 Compile o projeto e use o executável gerado em:
 
