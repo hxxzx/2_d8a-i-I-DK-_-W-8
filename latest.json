@@ -1,8 +1,35 @@
 {
   "version": "1.0.0",
   "download_url": "https://github.com/hxxzx/2_d8a-i-I-DK-_-W-8/releases/download/1.0.1/TrinityExternal.exe",
-  "sha256": "37F6719F8DAB17875A1EFF06CF095020E590E61D7740305325681BF83722FB50",
-  "changelog": [
-    "Implementação de um bootstrapper/added a bootstrapper"
-  ]
-}
+  "sha256": "7E72C7F6014BC3E2CF744B13D05BC231FB3A04B5E9D8228C938D616D549008E8",
+"changelog": [
+"🇧🇷 Português",
+"",
+"✦ Novidades",
+"• Sistema completo de configurações — Salvar, Carregar e Exportar",
+"• Sistema de notificações para ações e eventos importantes",
+"• Nova aba Updates para acompanhar atualizações do aplicativo",
+"",
+"✦ Correções",
+"• Corrigido o problema de minimização que mantinha o aplicativo ativo de forma invisível sobre outras janelas",
+"",
+"✦ Melhorias",
+"• Melhorias gerais de performance e responsividade",
+"• Refinamentos visuais em toda a interface",
+"• Melhorias nas opções de personalização e experiência de uso",
+"",
+"🇺🇸 English",
+"",
+"✦ New",
+"• Complete configuration system — Save, Load & Export",
+"• Notification system for important actions and events",
+"• New Updates tab for tracking application updates",
+"",
+"✦ Fixes",
+"• Fixed a minimization issue that could leave the application invisibly active over other windows",
+"",
+"✦ Improvements",
+"• General performance and responsiveness improvements",
+"• Visual refinements across the interface",
+"• Improved customization options and overall user experience"
+]
