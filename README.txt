@@ -77,3 +77,11 @@ ATENÇÃO À ORDEM
 Publique primeiro o asset da Release e depois atualize latest.json, para que o manifesto não anuncie um download que ainda não existe.
 
 O formato implementado espera o download direto de um .exe x64 — não um ZIP.
+
+
+==========================
+Ordem/Comparação
+==========================
+
+Atualização automática
+Ao iniciar, o app compara a versão compilada (PROJECT_VERSION, no CMake) com a versão informada no manifesto remoto. Se a versão remota for maior, baixa a atualização por HTTPS, verifica o SHA-256 e aplica o arquivo. Para publicar uma atualização, aumente a versão no CMake e atualize no manifesto os campos version, download_url e sha256.
