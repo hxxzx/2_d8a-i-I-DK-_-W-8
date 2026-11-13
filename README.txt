@@ -13,3 +13,5 @@ exemplo:
 "Melhorias de desempenho"
 ]
 }
+
+agora faz la no latest.json qnd qser subir nova versao
