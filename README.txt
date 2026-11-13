@@ -1,7 +1,7 @@
 
 Get-FileHash .\TrinityExternal.exe -Algorithm SHA256
 
-
+pra subir att, tem q mudar a versao no cmake lists e dps com o exe pronto puxa o hash dele e bota no
 exemplo:
 
 {
